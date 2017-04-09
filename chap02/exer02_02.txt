@@ -1,0 +1,18 @@
+Page 34
+
+Which of these are well-formed lists?  That is, which ones have properly
+balanced parenthesis?
+
+--------------------------------------------------------------------------------
+
+(A B (C)            invalid
+
+((A) (B))           valid
+
+A B )(C D)          invalid
+
+(A (B (C))          invalid
+
+(A (B (C)))         valid
+
+(((A) (B)) (C))     valid

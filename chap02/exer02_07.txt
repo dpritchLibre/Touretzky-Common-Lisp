@@ -1,0 +1,9 @@
+Page 41
+
+What goes on inside the MY-SECOND box when it is given the input (HONK IF YOU
+LIKE GEESE)?
+
+--------------------------------------------------------------------------------
+
+the REST function returns the list (IF YOU LIKE GEESE) which is passed as the
+input to the SECOND function which in turn returns the symbol IF
