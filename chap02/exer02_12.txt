@@ -1,0 +1,8 @@
+Page 47
+
+What C...R name does Lisp use for the function that returns the fourth element
+of a list?  How would you pronounce it?
+
+--------------------------------------------------------------------------------
+
+The function is CADDDR.  It is pronounced ka-dih-dih-der.

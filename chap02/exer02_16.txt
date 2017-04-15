@@ -1,0 +1,8 @@
+Page 50
+
+What does CAAR do when given the input (FRED NIL)?
+
+--------------------------------------------------------------------------------
+
+CAAR throws an error given this input because it isn't legal to take the CAR of
+an element (in this case, the element FRED).
